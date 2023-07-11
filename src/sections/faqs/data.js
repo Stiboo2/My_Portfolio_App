@@ -22,7 +22,7 @@ const data = [
   },
   {
     id: 3,
-    question: "Do you have you own transport?",
+    question: "Do you have your own transport?",
     answer: "Yes",
   },
   {
