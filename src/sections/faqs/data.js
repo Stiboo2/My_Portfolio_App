@@ -7,7 +7,7 @@ const data = [
   {
     id: 2,
     question: "Current CTC ?",
-    answer: "700 000 pa",
+    answer: "per request",
   },
   {
     id: 5,
@@ -29,6 +29,17 @@ const data = [
     id: 6,
     question: "Reason for wanting to leave your current position",
     answer: "Career advancement and seeking new opportunities.",
+  },
+  {
+    id: 7,
+    question:
+      "Do you have any criminal or credit history that we should be aware of?",
+    answer: "No.",
+  },
+  {
+    id: 8,
+    question: "Are you looking for in-office, remote or hybrid roles?",
+    answer: "Currectly  doing hybrid but doesn't matter.",
   },
 ];
 
