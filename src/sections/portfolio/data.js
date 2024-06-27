@@ -83,10 +83,10 @@ const data = [
   },
   {
     id: 9,
-    category: "frontend",
+    category: "backend",
     image: Image9,
-    title: "Project Title Nine (Frontend)",
-    desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+    title: "Frontend Development with Docker",
+    desc: "Utilize Docker to containerize your frontend applications, ensuring consistent development and deployment environments. By leveraging Docker's capabilities, you can streamline your workflow, improve collaboration, and simplify scaling. Discover how to build, manage, and deploy your applications with ease using Docker.",
     demo: "http://egatortutorials.io",
     github: "https://github.io/egattor",
   },
